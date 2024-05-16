@@ -109,7 +109,3 @@ This project is licensed under the MIT License.
 ### 🙏 Acknowledgements
 
 Thanks to all contributors and the open-source community for their invaluable support.
-
----
-
-Feel free to adjust the URLs, repository names, and any other details as necessary.
